@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Research;Generative+AI+%7C+AI+Agents;Always+Learning+%F0%9F%9A%80" />
 
 
-
 </div>
 
 ---
