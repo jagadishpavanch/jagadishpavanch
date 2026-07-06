@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Research;Generative+AI+%7C+AI+Agents;Always+Learning+%F0%9F%9A%80" />
 
 <p>
-<a href="https://github.com/jagadishpavanch"><img src="https://img.shields.io/github/followers/jagadishpavanch?label=Followers&style=for-the-badge"/></a>
+
 <a href="https://github.com/jagadishpavanch"><img src="https://img.shields.io/github/stars/jagadishpavanch?affiliations=OWNER&style=for-the-badge"/></a>
 <img src="https://komarev.com/ghpvc/?username=jagadishpavanch&style=for-the-badge"/>
 </p>
